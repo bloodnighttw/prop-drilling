@@ -7,9 +7,9 @@
 
 html,
 body {
-  @apply bg-white dark:bg-gray-950;
+  @apply bg-gray-950 text-amber-50;
+}
 
-  @media (prefers-color-scheme: dark) {
-    color-scheme: dark;
-  }
+h1 {
+  @apply text-3xl font-bold;
 }
