@@ -1,0 +1,1 @@
+import{o as n}from"./chunk-QMGIS6GS-Bts8NJqI.js";function g({children:r}){const o=["bg-red-900","bg-green-900","bg-blue-900","bg-yellow-900","bg-purple-900","bg-pink-900","bg-indigo-900","bg-teal-900"],e=o[Math.floor(Math.random()*o.length)]+" *:my-2 border p-4 *:h1:text-4xl";return n.jsx("div",{className:e,children:r})}export{g as R};
